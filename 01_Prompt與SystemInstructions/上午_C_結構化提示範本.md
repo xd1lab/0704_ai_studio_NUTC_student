@@ -1,6 +1,5 @@
 # 上午 C · 結構化提示範本（Structured Prompt）：輸出可貼 Excel 的表格
 
-> **對應大綱**：結構化提示範本 Structured Prompt
 > **核心觀念**：把 B 的分類結果**再升級**——明確定義「欄位（schema）」與「輸出格式」，讓 AI 產出**可以直接貼進 Excel / Google 試算表的表格**，或**可被系統讀取的 JSON**。
 > **使用時機**：上午第三段，緊接 B。示範「從一段散文 → 一張整齊的表 → 貼進試算表」。
 > **放哪裡**：整段貼進對話框，或把 schema 規則放 System Instructions。
